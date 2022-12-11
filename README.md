@@ -20,9 +20,9 @@
 
 <!-- Language and stats -->
 <p align="center">
-    <a href="https://github.com/neharidha"><img width="250" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=neharidha&count_private=true&theme=dark" alt="Stats"></a> 
-    <a href="https://github.com/neharidha"><img width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=neharidha&count_private=true&theme=dark" alt="Stats"></a>
-    <a href="https://github.com/neharidha"><img img width="220" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharidha&layout=compact&count_private=true&theme=dark" alt="Top Languages"></a>
+    <a href="https://github.com/neharidha"><img width="250" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=neharidha&count_private=true&theme=radical" alt="Stats"></a> 
+    <a href="https://github.com/neharidha"><img width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=neharidha&count_private=true&theme=radical" alt="Stats"></a>
+    <a href="https://github.com/neharidha"><img img width="220" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharidha&layout=compact&count_private=true&theme=radical" alt="Top Languages"></a>
 </p>
 
 <h2 align="center">
